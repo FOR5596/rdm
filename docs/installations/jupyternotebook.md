@@ -12,7 +12,7 @@ Jupyter Notebook is a web-based interactive computing environment that allows yo
 2. Run the FOR5596 Jupyter Lab Docker container from a command line
 
     ```bash
-    docker run -it --rm -p 8888:8888 -v "${PWD}":/home/jovyan/work --name FOR5596-notebook for5596-notebook
+    docker run -it --rm -p 8888:8888 -v "${PWD}":/home/jovyan/work --name FOR5596-notebook haeussma/for5596-notebook
     ```
 
 3. Open the Docker Desktop application navigate to `Containers` and click on the running container named `FOR5596-notebook`

@@ -227,7 +227,7 @@ The core objective when defining an RDM is to create a hierarchical list of all 
 
 ### Document Header
 
-A Markdown Model starts with the title of the data mode as a level 1 heading `#!md # <title of the data model>`, followed by the level 2 heading `#!md ## Objects`, which is the start of the hierarchical list of objects comprising the data model.
+A Markdown Model starts with the title of the data mode as a level 1 heading (`#!md # <title of the data model>`), followed by the level 2 heading (`#!md ## Objects`), which is the start of the hierarchical list of objects comprising the data model.
 
 !!! Example "Document header"
     ```md
