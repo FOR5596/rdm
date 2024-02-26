@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://FOR5596.github.io/rdm/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FOR5596.github.io/rdm/includes/abbreviations/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FOR5596.github.io/rdm/installations/docker/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FOR5596.github.io/rdm/installations/jupyternotebook/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FOR5596.github.io/rdm/installations/local_env/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FOR5596.github.io/rdm/rdm/define/</loc>
+         <lastmod>2024-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
